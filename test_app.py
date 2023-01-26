@@ -4,9 +4,9 @@ from app import article_shorten
 class TestApp:
     """
     Notes:
-    1. there is no requirements for case when given sentence is empty string - test_case_6
-    2. there is no requirements for case when given data is not a string - test_case_7
-    3. there is no requirements for case when given sentence is one word >= 25 symbols - test_case_8
+    1. there is no requirements for case when given sentence is empty string - test_case_5
+    2. there is no requirements for case when given data is not a string - test_case_6
+    3. there is no requirements for case when given sentence is one word >= 25 symbols - test_case_7
     """
 
     def test_case_1(self):
